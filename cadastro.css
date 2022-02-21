@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+body {
+    background-image: url("https://i.pinimg.com/originals/08/00/a7/0800a7ee0d4d8b11a7ed297dd64fb488.gif");
+    background-attachment: fixed;
+    background-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+th{
+    color: white;
+}
